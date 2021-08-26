@@ -17,11 +17,13 @@ public class MainActivity extends AppCompatActivity {
         setTitle("Вход");
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
         Button entry = (Button) findViewById(R.id.entry);
+        setSupportActionBar(findViewById(R.id.mainToolBar));
 
         entry.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent intent = new Intent(v.getContext(), GreetingActivity.class);
                 startActivity(intent);
+
             }
         });
     }

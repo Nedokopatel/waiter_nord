@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Waiter/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2635416666666667" />
         <entry key="..\:/Waiter/app/src/main/res/layout/activity_greeting.xml" value="0.265625" />
         <entry key="..\:/Waiter/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/activity_order.xml" value="0.67" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/toolbar.xml" value="0.24739583333333334" />
+        <entry key="..\:/Waiter/app/src/main/res/menu/order_menu.xml" value="0.24739583333333334" />
         <entry key="..\:/waiter/app/src/main/res/layout/activity_greeting.xml" value="0.16354166666666667" />
         <entry key="..\:/waiter/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/waiter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1796875" />
