@@ -8,6 +8,9 @@ import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.os.Handler;
 
+import com.example.waiter.Api.Area;
+import com.example.waiter.ApiMet.GetArea;
+
 import java.util.Timer;
 
 public class GreetingActivity extends AppCompatActivity {
@@ -25,6 +28,7 @@ public class GreetingActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         };
+        //GetArea area = new GetArea(MainActivity.token);
         Handler h = new Handler();
         h.postDelayed(r, 3000);
 

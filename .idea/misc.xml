@@ -3,12 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Waiter/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2635416666666667" />
         <entry key="..\:/Waiter/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2635416666666667" />
+        <entry key="..\:/Waiter/app/src/main/res/layout-v21/activity_ordered.xml" value="0.37907608695652173" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/activity_final.xml" value="0.2710526315789474" />
         <entry key="..\:/Waiter/app/src/main/res/layout/activity_greeting.xml" value="0.265625" />
         <entry key="..\:/Waiter/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Waiter/app/src/main/res/layout/activity_order.xml" value="0.67" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/activity_order.xml" value="0.25" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/activity_ordered.xml" value="0.5" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/activity_table.xml" value="0.67" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/example_item.xml" value="0.5" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/fragment_menu.xml" value="0.37907608695652173" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/fragment_product.xml" value="0.37907608695652173" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/fragment_table.xml" value="0.5" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/item_menu.xml" value="0.37907608695652173" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/item_order.xml" value="0.3745471014492754" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/item_product.xml" value="0.37907608695652173" />
+        <entry key="..\:/Waiter/app/src/main/res/layout/item_table.xml" value="0.36367753623188404" />
         <entry key="..\:/Waiter/app/src/main/res/layout/toolbar.xml" value="0.24739583333333334" />
         <entry key="..\:/Waiter/app/src/main/res/menu/order_menu.xml" value="0.24739583333333334" />
+        <entry key="..\:/Waiter/app/src/main/res/menu/popup_menu.xml" value="0.24739583333333334" />
+        <entry key="..\:/Waiter/app/src/main/res/mipmap-anydpi-v26/add_button.xml" value="0.25625" />
+        <entry key="..\:/Waiter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2635416666666667" />
+        <entry key="..\:/Waiter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2635416666666667" />
         <entry key="..\:/waiter/app/src/main/res/layout/activity_greeting.xml" value="0.16354166666666667" />
         <entry key="..\:/waiter/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/waiter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1796875" />
